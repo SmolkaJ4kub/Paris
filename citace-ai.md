@@ -23,6 +23,10 @@ Texty a návrh obsahu této ukázkové stránky připravil AI asistent v rámci 
 
 Vytvořil jsem responzivní českou stránku o Paříži v samostatných souborech `index.html` a `style.css`, bez JavaScriptu. Ve stránce jsou odkazy na portfolio, ikony HTML a CSS validátorů, upozornění na fiktivní výukový web a tento záznam konverzace s citací AI.
 
+### Následná úprava
+
+Na žádost uživatele jsem opravil přístupné popisky statistik a odkazů na validátory: statistiky jsou nyní pojmenovanou sekcí a validátory navigační oblastí. Tento záznam citace byl při té příležitosti aktualizován.
+
 ## Poznámka k fotografiím
 
 Fotografie na stránce se načítají z Unsplash přes vzdálené URL uvedené v `style.css`. Jejich dostupnost závisí na připojení k internetu. Textový obsah stránky vytvořil AI asistent.
