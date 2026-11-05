@@ -27,6 +27,8 @@ Vytvořil jsem responzivní českou stránku o Paříži v samostatných soubore
 
 Na žádost uživatele jsem opravil přístupné popisky statistik a odkazů na validátory: statistiky jsou nyní pojmenovanou sekcí a validátory navigační oblastí. Tento záznam citace byl při té příležitosti aktualizován.
 
+Na další žádost uživatele odkazy HTML a CSS validátorů v patičce nyní rovnou spouštějí validaci publikované stránky [https://smolkaj4kub.github.io/Paris/](https://smolkaj4kub.github.io/Paris/). Aktualizoval jsem také přístupné popisky odkazů.
+
 ## Poznámka k fotografiím
 
 Fotografie na stránce se načítají z Unsplash přes vzdálené URL uvedené v `style.css`. Jejich dostupnost závisí na připojení k internetu. Textový obsah stránky vytvořil AI asistent.
